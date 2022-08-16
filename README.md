@@ -8,6 +8,8 @@
 
 - 🔭 I’m currently working as **Backend Developer at Coally!**
 
+- 🤝 I’m also interested in **Data Science and Blockchain**
+
 - 💬 Ask me about **javascript, react, redux, nodejs, express, mongoDB**
 
 - 📫 How to reach me **arenasjesus.w@gmail.com**
