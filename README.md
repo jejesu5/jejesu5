@@ -4,7 +4,7 @@
 - 👨‍💻 About me<br> 
 **Hi! I'm Jesus Arenas. I'm 21 years old and I'm from Venezuela. My life goal is keep learning, improving my skills and getting better in all i do. I believe with discipline and constancy we can do whatever we want.**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Java**
 
 - 🔭 I’m currently working as **Backend Developer at Coally!**
 
