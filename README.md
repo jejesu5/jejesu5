@@ -2,16 +2,7 @@
 <h3 align="center">A passionate full Stack Developer willing to keep learning everyday!</h3>
 
 - 👨‍💻 About me<br> 
-**Hi! I'm Jesus Arenas. I'm 21 years old and I'm from Venezuela. My life goal is keep learning, improving my skills and getting better in all i do. I believe with discipline and constancy we can do whatever we want.**
-
-- 🌱 I’m currently learning **Java**
-
-- 🔭 I’m currently working as **Backend Developer at Coally!**
-
-- 🤝 I’m also interested in **Data Science and Blockchain**
-
-- 💬 Ask me about **javascript, react, redux, nodejs, express, mongoDB**
-
+**Hi! I'm Jesus Arenas.
 - 📫 How to reach me **arenasjesus.w@gmail.com**
 
 - ⚡ Fun fact **Coming from a really messed up country has give me a bunch of crazy funny stories to tell**
